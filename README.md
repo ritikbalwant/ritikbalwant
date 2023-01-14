@@ -1,4 +1,4 @@
-<img src="https://github.com/ritikbalwant/ritikbalwant/blob/aa7588ef677585bbb9312b8f9b04d98df4288b33/Github%20README.md%20Banner%20FINAL.png" width="100%" height="100%" >
+<img src="https://github.com/ritikbalwant/ritikbalwant/blob/aa7588ef677585bbb9312b8f9b04d98df4288b33/Github%20README.md%20Banner%20FINAL.png" width="100%" >
 
 <!-- ********************************************************************************************************************************************* -->
 
