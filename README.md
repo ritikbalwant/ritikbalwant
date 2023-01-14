@@ -1,3 +1,7 @@
+<img src="https://github.com/ritikbalwant/ritikbalwant/blob/d3f5ce474003b99ba13daafd304b0adbff3eefb4/Github%20README.md%20Banner.png" width="100%" height="100%" >
+
+<!-- ********************************************************************************************************************************************* -->
+
 <h1> Hola. </h1>
 
 -  Hi, I’m @ritikbalwant
