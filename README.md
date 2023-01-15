@@ -4,7 +4,7 @@
 
 <!-- ********************************************************************************************************************************************* -->
 
-My name is Ritik Balwant. I’m a sophomore pursuing Computer Science and Engineering at MIT Bangalore Campus. I really enjoy learning languages and frameworks like React and Swift. I also enjoy user-research, wireframing, prototyping and design in general. I’m interested in full-stack development, open-source contributions, UI/UX Designing and Technology. I love travelling, photography, reading non-fiction, watching nature-wildlife documentaries and cycling.
+My name is Ritik Balwant. I’m a sophomore pursuing Computer Science and Engineering at MIT Bangalore Campus. I really enjoy learning languages and frameworks like React and Swift. I also enjoy user-research, wireframing, prototyping and design in general. I’m interested in full-stack development, open-source contributions, UI/UX Designing and Technology. I love capturing beautiful experiences, travelling, reading non-fiction,listening to music and podcasts, watching nature-wildlife documentaries and cycling.
 
 I’m excited to find and meet people with the same passion, collaborate and contribute on multiple excellent projects, share my projects and have a great experience.
 
