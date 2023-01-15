@@ -12,9 +12,13 @@ Big hug,
 
 startCreating 🚀
 
-| Development | Open-Source | DevOps | UI/UX Design | PeoplewhoCode | Technology |
+| Development | Open-Source Contribution | DevOps | UI/UX Design | Technology | PeoplewhoCode |
 
-### ✉️ Find me on:
+<h3> Socials: </h3>
+
+Linkedin 
+Instagram 
+Twitter 
 
 <!-- ********************************************************************************************************************************************* -->
 
