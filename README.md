@@ -20,11 +20,12 @@ startCreating 🚀
 
 | Development | Open-Source Contribution | DevOps | UI/UX Design | Visual Identity | Technology | PeoplewhoCode |
 
-<h3> Socials: </h3>
 
+
+<h3> Socials: </h3>
 Linkedin www.linkedin.com/in/ritikbalwant <br>
 Twitter https://twitter.com/RitikBalwant <br>
-Instagram https://www.instagram.com/ritikbalwant129 <br><br>
+Instagram https://www.instagram.com/ritikbalwant129 
 
 
 
