@@ -16,9 +16,9 @@ startCreating 🚀
 
 <h3> Socials: </h3>
 
-Linkedin <br> www.linkedin.com/in/ritikbalwant
-Twitter <br> https://twitter.com/RitikBalwant
-Instagram <br> https://www.instagram.com/ritikbalwant129
+Linkedin www.linkedin.com/in/ritikbalwant <br>
+Twitter https://twitter.com/RitikBalwant <br>
+Instagram https://www.instagram.com/ritikbalwant129 <br>
 
 <!-- ********************************************************************************************************************************************* -->
 
