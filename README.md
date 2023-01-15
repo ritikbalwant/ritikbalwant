@@ -14,6 +14,19 @@ ritikbalwant/ritikbalwant is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+### 👩🏻‍💻About me :
+I am a 2nd year computer science engineering student @MIT, Bangalore.  
+
+### 💻 Technologies:
+I am interested in Artificial Intelligence and Machine Learning. 
+I code in Python (5 🌟 HackerRank) , C (3 star HackerRank), C++, Java
+
+### ♟️Hobbies:
+I love playing Chess, Basketball, Skating, Badminton. 
+I love travelling ✈️🌏
+
+### ✉️ Find me on:
+
 
 
 
@@ -26,7 +39,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant)
 
@@ -45,20 +57,11 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant
 
 ## Examples of Work
 <span><img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
+
 <!-- ********************************************************************************************************************************************* -->
 
-### 👩🏻‍💻About me :
-I am a 2nd year computer science engineering student @MIT, Bangalore.  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant)
 
-### 💻 Technologies:
-I am interested in Artificial Intelligence and Machine Learning. 
-I code in Python (5 🌟 HackerRank) , C (3 star HackerRank), C++, Java
-
-### ♟️Hobbies:
-I love playing Chess, Basketball, Skating, Badminton. 
-I love travelling ✈️🌏
-
-### ✉️ Find me on:
 
 
 <p align="center"> 
