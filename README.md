@@ -36,25 +36,22 @@ I love travelling ✈️🌏
 ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
 
 
 
 
 
 <!-- ********************************************************************************************************************************************* -->
+<br>
 
-## Examples of Work
+<h2> Examples of Work <h2>
 <span><img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
 
 <!-- ********************************************************************************************************************************************* -->
+<br><br><br>
 
-### 🏆 My Github Stats:
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant&hide=php&theme=tokyonight" />
-</a>
-</div>
+  <h2> My Github Stats: </h2>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p>
           
