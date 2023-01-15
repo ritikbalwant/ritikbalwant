@@ -39,7 +39,7 @@ Instagram https://www.instagram.com/ritikbalwant129 <br><br>
 <!-- ********************************************************************************************************************************************* -->
 <br>
 
-<h3> Glimpse of projects I've worked on: <h3>
+<h3> A glimpse of projects I've worked on: <h3>
 <span><img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
 
 <!-- ********************************************************************************************************************************************* -->
