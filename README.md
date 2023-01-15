@@ -31,7 +31,7 @@ I love travelling ✈️🌏
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&" alt="ritikbalwant" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p>
 
 
 <!-- ********************************************************************************************************************************************* -->
