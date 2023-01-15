@@ -18,13 +18,9 @@ startCreating 🚀
 
 Linkedin www.linkedin.com/in/ritikbalwant <br>
 Twitter https://twitter.com/RitikBalwant <br>
-Instagram https://www.instagram.com/ritikbalwant129 <br>
-  
-  
-<a href="https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)" />
-</a>
+Instagram https://www.instagram.com/ritikbalwant129 <br><br>
 
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
 
 <!-- ********************************************************************************************************************************************* -->
 
@@ -37,7 +33,7 @@ Instagram https://www.instagram.com/ritikbalwant129 <br>
 <!-- ********************************************************************************************************************************************* -->
 <br>
 
-<h3> Examples of Work <h3>
+<h3> Glimpse of projects I've done: <h3>
 <span><img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
 
 <!-- ********************************************************************************************************************************************* -->
