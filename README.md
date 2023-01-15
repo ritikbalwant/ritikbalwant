@@ -38,20 +38,16 @@ I love travelling ✈️🌏
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
 
-
-
-
-
 <!-- ********************************************************************************************************************************************* -->
 <br>
 
-<h2> Examples of Work <h2>
+<h3> Examples of Work <h3>
 <span><img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
 
 <!-- ********************************************************************************************************************************************* -->
-<br><br><br>
+<br><br>
 
-  <h2> My Github Stats: </h2>
+  <h3> My Github Stats: </h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p>
           
