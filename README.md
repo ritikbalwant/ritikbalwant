@@ -12,13 +12,13 @@ Big hug,
 
 startCreating 🚀
 
-| Development | Open-Source Contribution | DevOps | UI/UX Design | Technology | PeoplewhoCode |
+| Development | Open-Source Contribution | DevOps | UI/UX Design | Visual Identity | Technology | PeoplewhoCode |
 
 <h3> Socials: </h3>
 
-Linkedin 
-Instagram 
-Twitter 
+Linkedin <br>
+Instagram <br>
+Twitter <br>
 
 <!-- ********************************************************************************************************************************************* -->
 
