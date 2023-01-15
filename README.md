@@ -4,29 +4,15 @@
 
 <!-- ********************************************************************************************************************************************* -->
 
-I'm Ritik from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+My name is Ritik Balwant. I’m a sophomore pursuing Computer Science and Engineering at MIT Bangalore Campus. I really enjoy learning languages and frameworks like React and Swift. I also enjoy user-research, wireframing, prototyping and design in general. I’m interested in full-stack development, open-source contributions, UI/UX Designing and Technology. I love travelling, photography, reading non-fiction, watching nature-wildlife documentaries and cycling.
 
--  Hi, I’m @ritikbalwant
--  I’m interested in programming and designing.
--  I’m currently learning React.js.
--  I’m looking to collaborate on projects.
+I’m excited to find and meet people with the same passion, collaborate and contribute on multiple excellent projects, share my projects and have a great experience.
 
+Big hug,
 
-### 👩🏻‍💻About me :
-I am a 2nd year computer science engineering student @MIT, Bangalore.  
+startCreating 🚀
 
-### 💻 Technologies:
-I am interested in Artificial Intelligence and Machine Learning. 
-I code in Python (5 🌟 HackerRank) , C (3 star HackerRank), C++, Java
-
-### ♟️Hobbies:
-I love playing Chess, Basketball, Skating, Badminton. 
-I love travelling ✈️🌏
-
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+| Development | Open-Source | DevOps | UI/UX Design | PeoplewhoCode | Technology |
 
 ### ✉️ Find me on:
 
