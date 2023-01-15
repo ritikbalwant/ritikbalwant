@@ -1,3 +1,5 @@
+<!-- ********************************************************************************************************************************************* -->
+
 <img src="https://github.com/ritikbalwant/ritikbalwant/blob/aa7588ef677585bbb9312b8f9b04d98df4288b33/Github%20README.md%20Banner%20FINAL.png" width="100%" >
 
 <!-- ********************************************************************************************************************************************* -->
@@ -9,10 +11,6 @@ I'm Ritik from India, and I do content on Design and Development. I really enjoy
 -  I’m currently learning React.js.
 -  I’m looking to collaborate on projects.
 
-<!---
-ritikbalwant/ritikbalwant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ### 👩🏻‍💻About me :
 I am a 2nd year computer science engineering student @MIT, Bangalore.  
@@ -25,19 +23,17 @@ I code in Python (5 🌟 HackerRank) , C (3 star HackerRank), C++, Java
 I love playing Chess, Basketball, Skating, Badminton. 
 I love travelling ✈️🌏
 
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+
 ### ✉️ Find me on:
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p>
-
 
 <!-- ********************************************************************************************************************************************* -->
 
 
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues)
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant)
@@ -47,13 +43,6 @@ I love travelling ✈️🌏
 
 
 <!-- ********************************************************************************************************************************************* -->
-
-
-
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
 
 ## Examples of Work
 <span><img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
@@ -90,4 +79,6 @@ I love travelling ✈️🌏
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant&hide=php&theme=tokyonight" />
 </a>
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p>
           
