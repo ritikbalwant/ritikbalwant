@@ -19,11 +19,17 @@ startCreating 🚀
 Linkedin www.linkedin.com/in/ritikbalwant <br>
 Twitter https://twitter.com/RitikBalwant <br>
 Instagram https://www.instagram.com/ritikbalwant129 <br>
+  
+  
+<a href="https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)" />
+</a>
+
 
 <!-- ********************************************************************************************************************************************* -->
 
 
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
+
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
