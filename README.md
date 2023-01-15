@@ -26,14 +26,13 @@ You can click the Preview link to take a look at your changes.
 
 ![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant&layout=compact)
+-   Top languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+-   WakaTime card
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritikbalwant&repo=convoychat" />
-</a>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ********************************************************************************************************************************************* -->
 
