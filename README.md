@@ -37,7 +37,7 @@ Instagram https://www.instagram.com/ritikbalwant129
 <br>
 
 <h3> A glimpse of projects I've worked on: <h3>
-<span><img src="https://github.com/ritikbalwant/ritikbalwant/blob/27a7486efa70b3758ad9a446c36ad881a06f6e6c/Source/Github%20project%20glimpse%201.png" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
+<span><img src="https://github.com/ritikbalwant/ritikbalwant/blob/27a7486efa70b3758ad9a446c36ad881a06f6e6c/Source/Github%20project%20glimpse%201.png" width="49.7%" >  <img src="https://github.com/ritikbalwant/ritikbalwant/blob/2b64eb5f7711db0d8f0f0dffdea84c98349dec71/Source/Github%20project%20glimpse%202.png" width="49.7%" ></span>
 
 <!-- ********************************************************************************************************************************************* -->
 
