@@ -6,7 +6,7 @@
 
 My name is Ritik Balwant. I’m a sophomore pursuing Computer Science and Engineering at MIT Bangalore Campus. I enjoy learning languages and frameworks like React, Tailwind and Swift.
 
-Full-stack Development, Open-Source contributions, UI/UX Design, and Technology are all areas of interest for me. 
+Full-stack Development, Open-Source contributions, DevOps, UI/UX Design, and Technology are all areas of interest for me. 
 
 I also enjoy user research, wireframing, prototyping and design in general. 
 
