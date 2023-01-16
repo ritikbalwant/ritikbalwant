@@ -31,10 +31,6 @@ Instagram https://www.instagram.com/ritikbalwant129
 
 <!-- ********************************************************************************************************************************************* -->
 
-
-
-
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
 
 <!-- ********************************************************************************************************************************************* -->
@@ -44,10 +40,11 @@ Instagram https://www.instagram.com/ritikbalwant129
 <span><img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" >  <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="49.7%" ></span>
 
 <!-- ********************************************************************************************************************************************* -->
-<br><br>
 
-  <h3> My Github Stats: </h3>
+<h3> My Github Stats: </h3>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p> -->
           
   ![Ritik Balwant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
+  
+ <!-- ********************************************************************************************************************************************* -->
