@@ -48,3 +48,5 @@ Instagram https://www.instagram.com/ritikbalwant129
   ![Ritik Balwant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
   
  <!-- ********************************************************************************************************************************************* -->
+
+          ![](https://visitor-badge.laobi.icu/badge?page_id=ritikbalwant.ritikbalwant)
