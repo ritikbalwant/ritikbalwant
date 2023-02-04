@@ -35,7 +35,7 @@ Instagram https://www.instagram.com/ritikbalwant129
 <br>
 
 <h3> A glimpse of projects I've worked on: <h3>
-<span><img src="https://github.com/ritikbalwant/ritikbalwant/blob/6f54b8b433edd782affe692fdc7515994829f2f6/Source/COMP%20Github%20project%20glimpse%201.png" width="49.7%" >  <img src="https://github.com/ritikbalwant/ritikbalwant/blob/2b64eb5f7711db0d8f0f0dffdea84c98349dec71/Source/Github%20project%20glimpse%202.png" width="49.7%" ></span>
+<span><img src="https://github.com/ritikbalwant/ritikbalwant/blob/6f54b8b433edd782affe692fdc7515994829f2f6/Source/COMP%20Github%20project%20glimpse%201.png" width="49.7%" >  <img src="https://github.com/ritikbalwant/ritikbalwant/blob/372688d8d2cd5f0dbab8c46663b860476724c563/Source/COMP%20Github%20project%20glimpse%202.png" width="49.7%" ></span>
 
 <!-- ************************************************************** GITHUB STATS *************************************************************** -->
 
