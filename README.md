@@ -48,4 +48,4 @@ Instagram https://www.instagram.com/ritikbalwant129
  <!-- ************************************************************* EXTRA TOOLS **************************************************************** -->
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=ritikbalwant.ritikbalwant) -->
-          <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
