@@ -1,8 +1,8 @@
-<!-- ********************************************************************************************************************************************* -->
+<!-- ******************************************************************* BANNER IMAGE ************************************************************* -->
 
 <img src="https://github.com/ritikbalwant/ritikbalwant/blob/aa7588ef677585bbb9312b8f9b04d98df4288b33/Github%20README.md%20Banner%20FINAL.png" width="100%" >
 
-<!-- ********************************************************************************************************************************************* -->
+<!-- ************************************************************************ ABOUT ME ********************************************************** -->
 
 My name is Ritik Balwant. I’m a sophomore pursuing Computer Science and Engineering at MIT Bangalore Campus. I enjoy learning languages and frameworks like React, Tailwind and Swift.
 
@@ -20,29 +20,23 @@ startCreating 🚀
 
 | Web Development | Js | Open-Source Contribution | DevOps | UI/UX Design | Visual Identity | Technology | PeoplewhoCode |
 
-
+<!-- *********************************************************************** LINKS ************************************************************ -->
 
 <h3> Socials: </h3>
 Linkedin www.linkedin.com/in/ritikbalwant <br>
 Twitter https://twitter.com/RitikBalwant <br>
 Instagram https://www.instagram.com/ritikbalwant129 
 
-<h3> Course Notes</h3>
+<h3> Synopsis </h3>
 - <a href="https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods">Open Source Software Development Methods</a>
 
-
-
-<!-- ********************************************************************************************************************************************* -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
-
-<!-- ********************************************************************************************************************************************* -->
+<!-- ******************************************************************** PROJECTS *************************************************************** -->
 <br>
 
 <h3> A glimpse of projects I've worked on: <h3>
 <span><img src="https://github.com/ritikbalwant/ritikbalwant/blob/27a7486efa70b3758ad9a446c36ad881a06f6e6c/Source/Github%20project%20glimpse%201.png" width="49.7%" >  <img src="https://github.com/ritikbalwant/ritikbalwant/blob/2b64eb5f7711db0d8f0f0dffdea84c98349dec71/Source/Github%20project%20glimpse%202.png" width="49.7%" ></span>
 
-<!-- ********************************************************************************************************************************************* -->
+<!-- ************************************************************** GITHUB STATS *************************************************************** -->
 
 <h3> My Github Stats: </h3>
 
@@ -50,6 +44,7 @@ Instagram https://www.instagram.com/ritikbalwant129
           
   ![Ritik Balwant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
   
- <!-- ********************************************************************************************************************************************* -->
+ <!-- ************************************************************* EXTRA TOOLS **************************************************************** -->
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=ritikbalwant.ritikbalwant) -->
+          <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikbalwant) -->
