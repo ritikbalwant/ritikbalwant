@@ -1,6 +1,6 @@
 <!-- ******************************************************************* BANNER IMAGE ************************************************************* -->
 
-<img src="https://github.com/ritikbalwant/ritikbalwant/blob/aa7588ef677585bbb9312b8f9b04d98df4288b33/Github%20README.md%20Banner%20FINAL.png" width="100%" >
+<img src="https://github.com/ritikbalwant/ritikbalwant/blob/6d5e383edc93991194392766927356d962d41872/Source/COMP%20Github%20README.md%20Banner%20FINAL.png" width="100%" >
 
 <!-- ************************************************************************ ABOUT ME ********************************************************** -->
 
