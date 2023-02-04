@@ -29,7 +29,7 @@ Instagram https://www.instagram.com/ritikbalwant129
 
 <h3> Synopsis </h3>
 - <a href="https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods">Open Source Software Development Methods</a> <br>
-- Open Source Software Development Methods https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods
+
 
 <!-- ******************************************************************** PROJECTS *************************************************************** -->
 <br>
