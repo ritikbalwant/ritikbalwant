@@ -27,7 +27,7 @@ Linkedin www.linkedin.com/in/ritikbalwant <br>
 Twitter https://twitter.com/RitikBalwant <br>
 Instagram https://www.instagram.com/ritikbalwant129 
 
-<h3> Synopsis </h3>
+<h3> Tech topics </h3>
 - <a href="https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods">Open Source Software Development Methods</a> 4Jan '22 (6 min read) <br>
 
 
