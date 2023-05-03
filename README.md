@@ -18,7 +18,7 @@ Big hug,
 
 startCreating 🚀
 
-| Web Development | Js | Open-Source Contribution | DevOps | UI/UX Design | Visual Identity | Technology | PeoplewhoCode |
+| Front-end Web Development | Js | Open-Source Contribution | DevOps | UI/UX Design | Visual Identity | Technology | PeoplewhoCode |
 
 <!-- *********************************************************************** LINKS ************************************************************ -->
 
