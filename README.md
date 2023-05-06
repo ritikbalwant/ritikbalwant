@@ -39,9 +39,9 @@ Instagram https://www.instagram.com/ritikbalwant129
 <span><img src="https://github.com/ritikbalwant/ritikbalwant/blob/6f54b8b433edd782affe692fdc7515994829f2f6/Source/COMP%20Github%20project%20glimpse%201.png" width="49.7%" >  <img src="https://github.com/ritikbalwant/ritikbalwant/blob/372688d8d2cd5f0dbab8c46663b860476724c563/Source/COMP%20Github%20project%20glimpse%202.png" width="49.7%" ></span>
           
 <h3> Project repo: </h3>
-Dynamic Island Music in dev <br>
-LabMatrix in dev <br>
-N-Clone in dev
+          Dynamic Island Music <a> in dev </a> <br>
+LabMatrix <a> in dev </a> <br>
+N-Clone <a> in dev </a>
 
 <!-- ************************************************************** GITHUB STATS *************************************************************** -->
 
