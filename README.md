@@ -47,7 +47,7 @@ N-Clone <a href=""> in dev </a>
 
 <h3> My Github Stats: </h3>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikbalwant&count_private=true" alt="ritikbalwant" /></p> 
           
   ![Ritik Balwant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikbalwant&hide=contribs,issues&count_private=true)
   
