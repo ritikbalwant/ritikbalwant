@@ -27,7 +27,7 @@ Linkedin www.linkedin.com/in/ritikbalwant <br>
 Twitter https://twitter.com/RitikBalwant <br>
 Instagram https://www.instagram.com/ritikbalwant129 
 
-<h3> Tech Blogs </h3>
+<h3> Tech Course Reflections </h3>
 - <a href="https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods">Open Source Software Development Methods</a> 4th Jan '23 (6 min read) <br>
 - <a href="https://github.com/ritikbalwant/2.Version.Control.git">Version Control</a> 6th May '23 (10 min read) <br>
 
