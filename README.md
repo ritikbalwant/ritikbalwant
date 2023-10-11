@@ -24,7 +24,7 @@ startCreating
 <!-- *********************************************************************** LINKS ************************************************************ -->
 
 ## Socials:
-[Linkedin] (www.linkedin.com/in/ritikbalwant)<br>
+[Linkedin](www.linkedin.com/in/ritikbalwant)<br>
 Twitter https://twitter.com/RitikBalwant <br>
 Instagram https://www.instagram.com/ritikbalwant129 
 
