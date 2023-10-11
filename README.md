@@ -4,7 +4,7 @@
 
 <!-- ************************************************************************ ABOUT ME ********************************************************** -->
 
-My name is <b>Ritik Balwant</b>. I’m a sophomore pursuing Computer Science and Engineering at MIT Bangalore Campus. I enjoy learning languages and frameworks like React, Tailwind and Swift.
+My name is <b>Ritik Balwant</b>, and I’m a Junior-year student at Manipal Institute of Technology, Bengaluru pursuing my Bachelor’s in Technology in Computer Science and Engineering.. I enjoy learning languages and frameworks like React, Tailwind and Swift.
 
 Full-stack Development, Open-Source contributions, DevOps, UI/UX Design, and Technology are all areas of interest for me. 
 
