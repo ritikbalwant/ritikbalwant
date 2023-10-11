@@ -34,8 +34,6 @@ startCreating
 
 
 <!-- ******************************************************************** PROJECTS *************************************************************** -->
-<br>
-
 <!-- ## A glimpse of projects I've worked on:
 <span><img src="https://github.com/ritikbalwant/ritikbalwant/blob/6f54b8b433edd782affe692fdc7515994829f2f6/Source/COMP%20Github%20project%20glimpse%201.png" width="49.7%" >  <img src="https://github.com/ritikbalwant/ritikbalwant/blob/372688d8d2cd5f0dbab8c46663b860476724c563/Source/COMP%20Github%20project%20glimpse%202.png" width="49.7%" ></span> -->
           
