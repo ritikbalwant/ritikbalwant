@@ -29,8 +29,8 @@ startCreating
 [Instagram](https://www.instagram.com/ritikbalwant129)
 
 ## Tech Course Reflections
-- <a href="https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods">Open Source Software Development Methods</a> 4th Jan '23 (6 min read) <br>
-- <a href="https://github.com/ritikbalwant/2.Version.Control.git">Version Control</a> 6th May '23 (10 min read) <br>
+<a href="https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods">Open Source Software Development Methods</a> 4th Jan '23 (6 min read) <br>
+<a href="https://github.com/ritikbalwant/2.Version.Control.git">Version Control</a> 6th May '23 (10 min read) <br>
 
 
 <!-- ******************************************************************** PROJECTS *************************************************************** -->
