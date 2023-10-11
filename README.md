@@ -3,6 +3,7 @@
 <!-- <img src="https://github.com/ritikbalwant/ritikbalwant/blob/6d5e383edc93991194392766927356d962d41872/Source/COMP%20Github%20README.md%20Banner%20FINAL.png" width="100%" > -->
 
 <!-- ************************************************************************ ABOUT ME ********************************************************** -->
+## About:
 
 My name is <b>Ritik Balwant</b>, and I’m a Junior-year student at Manipal Institute of Technology, Bengaluru pursuing my Bachelor’s in Technology in Computer Science and Engineering.. I enjoy learning languages and frameworks like React, Tailwind and Swift.
 
@@ -16,7 +17,7 @@ I'm looking forward to finding and meeting people who share my passion, collabor
 
 Big hug,
 
-startCreating 🚀
+startCreating
 
 | Front-end Web Development | Js | Open-Source Contribution | DevOps | UI/UX Design | Visual Identity | Technology | PeoplewhoCode |
 
