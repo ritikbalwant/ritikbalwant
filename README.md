@@ -25,8 +25,11 @@ startCreating
 
 ## Socials:
 [Linkedin](www.linkedin.com/in/ritikbalwant)<tab>
+[Medium](https://medium.com/@fpkfbgzz) <tab>
 [Twitter](https://twitter.com/RitikBalwant) <tab>
 [Instagram](https://www.instagram.com/ritikbalwant129)
+
+
 
 ## Tech Course Reflections
 <a href="https://github.com/ritikbalwant/1.Open.Source.Software.Development.methods">Open Source Software Development Methods</a> 4th Jan '23 (6 min read) <br>
