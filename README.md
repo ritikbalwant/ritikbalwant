@@ -5,26 +5,14 @@
 <!-- ************************************************************************ ABOUT ME ********************************************************** -->
 ## About:
 
-Hello, I'm Ritik Balwant. <br>
-
-As a creative developer, I focus on both design and development — creative — lover of all things craft. <br>
-
-Development and design, in my opinion, are very overlapping disciplines because both entail finding solutions to people's problems, which makes us think and hence helps us get better at finding solutions. <br>
-
-I'm a Junior-year student at Manipal Institute of Technology, Bengaluru pursuing my Bachelor's in Technology in Computer Science and Engineering with specialisation in Cyber Security. <br>
-
-I'm looking forward to finding and meeting people who share my passion, collaborating and contributing to a variety of excellent projects, sharing my projects, and having a great experience. <br>
-
-Big hug,
-
-startCreating
+anything that is huge, profitable, famous, or influential is the result of a tail event -morgan
 
 | Technology | Development | Design | Books | Photography | Expeditions | Interactions |
 
 <!-- *********************************************************************** LINKS ************************************************************ -->
 
 ## Socials:
-[Web](https://ritikbalwant.me)<tab>
+[Web](https://ritikbalwant.github.io)<tab>
 [Linkedin](www.linkedin.com/in/ritikbalwant)<tab>
 [Medium](https://medium.com/@ritikbalwant) <tab>
 [Twitter](https://twitter.com/RitikBalwant) <tab>
